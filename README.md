@@ -1,5 +1,7 @@
 
 ## EXNO-3-DS
+# NAME : Guru prasath K M
+# Ref No: 24900987
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
@@ -39,8 +41,7 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-# NAME : Guru prasath K M
-# Ref No: 24900987
+
 ```
 
 import pandas as pd
